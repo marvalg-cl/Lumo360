@@ -1,0 +1,23 @@
+{
+  "name": "LUMO360 · CRM & ERP · Lumobral",
+  "short_name": "LUMO360",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F4F6F7",
+  "theme_color": "#FF5F00",
+  "description": "Gestión comercial y operativa de Lumobral",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
