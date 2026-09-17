@@ -1,0 +1,10 @@
+{
+  "name": "LUMO360 · LUMOBRAL",
+  "short_name": "LUMO360",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F4F7F9",
+  "theme_color": "#0B1824",
+  "lang": "es-CL",
+  "icons": [{"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"}]
+}
