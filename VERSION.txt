@@ -1,0 +1,6 @@
+Lumo360 · cierre 2026-10-07 (pasada UX terreno)
+Núcleo único HTML/CSS/JS
+PWA GitHub-ready
+v10 · estilo premium (paleta azul marino/azul/naranja, iconos en círculos, tarjetas redondeadas)
+v12 · respaldo automático en Google Drive (archivo único, detección de conflictos, restauración, PDF archivados en carpeta)
+v13 · limpieza de estilos: !important 1.158 -> 351 (solo hover/foco, impresión y casos necesarios); 84 capturas idénticas píxel a píxel; auditoría 20/20 y prueba Drive 14/14
