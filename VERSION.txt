@@ -1,4 +1,0 @@
-Lumo360 · cierre 2026-10-07 (pasada UX terreno)
-Núcleo único HTML/CSS/JS
-PWA GitHub-ready
-v10 · estilo premium (paleta azul marino/azul/naranja, iconos en círculos, tarjetas redondeadas)
