@@ -1,6 +1,0 @@
-IMPORTANTE: ESTE PAQUETE CONTIENE DATOS COMERCIALES REALES Y CONFIGURACIÓN PRIVADA EMBEBIDA EN index.html.
-
-USAR COMO REPOSITORIO PRIVADO.
-NO PUBLICAR EN GITHUB PÚBLICO.
-
-Para una versión pública se debe separar el dataset/seed y retirar datos de clientes, contactos, proveedores, cuentas bancarias y correos privados.
